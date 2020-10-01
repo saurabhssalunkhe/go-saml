@@ -1,4 +1,4 @@
-# go-saml
+# go-saml -An amazing project 
 High-level API library for Single Sign On with SAML 2.0 based on  [etree](https://github.com/beevik/etree) and [signedxml](https://github.com/ma314smith/signedxml), a pure Go implementation.
 The library provides the Identity Provider Implementation with support of both IDPInitiated and SPInitiated flow.
 
